@@ -1,0 +1,193 @@
+* {
+box-sizing: border-box;
+}
+body {
+	
+    
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bc362d+0,4f0000+100,ff530f+100 */
+background: #bc362d; /* Old browsers */
+background: -moz-linear-gradient(left,  #bc362d 0%, #4f0000 100%, #ff530f 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #bc362d 0%,#4f0000 100%,#ff530f 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #bc362d 0%,#4f0000 100%,#ff530f 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bc362d', endColorstr='#ff530f',GradientType=1 ); /* IE6-9 */
+
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 2;
+    overflow: hidden;
+    background-color: #222;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: black;
+}
+h1 { font-size: 400;
+
+	
+	}
+.wrapper {
+margin: 200px auto;
+width: 1200px;
+height: 1200px;
+
+
+}
+.profile {
+background: #000;
+float: left;
+padding: 20px;
+margin-bottom: 1%;
+width: 33%;
+
+
+
+}
+.profile img {
+border: 8px solid red;
+border-radius: 0%;
+display: block;
+height: auto;
+width: 100%;
+}
+.description {
+
+border: 5px solid black;
+border-radius: 0%;
+background: #fff;
+float: left;
+margin-left: 1%;
+padding: 20px;
+width: 66%;
+height: 325px;
+
+}
+.bild2{
+background: white;
+float: left;
+padding: 00px;
+margin-bottom: 1%;
+width: 300px;
+height: 250px;
+}
+.bild2 img {
+border: 5px solid black;
+border-radius: 5%;
+display: block;
+height: 100%;
+width: 100%;
+
+}
+.bild3{
+background: white;
+float: left;
+padding: 00px;
+margin-top: -292px;
+margin-left: 400px;
+width: auto;
+height: 250px;
+
+}
+
+.bild3 img {
+border: 5px solid black;
+border-radius: 5%;
+display: block;
+height: 100%;
+width: 100%;
+
+}
+#section-middle {
+border: 5px solid black;
+border-radius: 5%;
+background: #fff;
+float: left;
+margin-left: 0%;
+padding: 20px;
+width: 100%;
+height: 325px;
+margin-bottom: 1%;
+}
+#section-left {
+display: block;
+background: #fff;
+border: 5px solid black;
+border-radius: 5%;
+left: auto;
+bottom: 0;
+float: left;
+padding: 20px;
+margin-bottom: 1%;
+width: 48%;
+}
+#section-left2 {
+display: block;
+background: #fff;
+border: 5px solid black;
+border-radius: 5%;
+left: auto;
+bottom: 0;
+float: left;
+padding: 20px;
+height: 1000px;
+margin-bottom: 1%;
+margin-right: 2200px;
+width: 28%;
+}
+#section-right {
+border: 5px solid black;
+border-radius: 5%;
+float: right;
+margin-left: 30px;
+display: block;
+background: #fff;
+right: 240px;
+bottom: 0;
+margin-bottom: 1%;
+width: 48%;
+padding: 20px;
+}
+.profile, .description, section {
+border-radius: 20px}
+Label {
+    color: white;
+    text-align: center;
+	font-size: 20px;
+}
+h1 {
+    color: white;
+    text-align: center;
+	font-size: 40px;
+}
+h2 {
+    color: white;
+	font-size: 40px;
+ 
+}
+h3 {
+    color: white;
+	
+
+   
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
